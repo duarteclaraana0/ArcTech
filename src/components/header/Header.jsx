@@ -16,7 +16,7 @@ const Header = () => (
         <a href="#projetos">Projetos</a>
         <div className='line' />
       </div>
-      <button className="header__contact">Entre em Contato</button>
+      <button className="header__contact">ENTRE EM CONTATO</button>
     </nav>
   </header>
 );

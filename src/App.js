@@ -5,6 +5,7 @@ import CasesSection from './components/cases-section/CasesSection';
 import Testimonials from './components/testimonials/Testimonials';
 import HowItWorks from './components/how-it-works/HowItWorks';
 import Footer from './components/footer/Footer';
+import Processes from './components/processes/Processes';
 // import ContactForm from './components/contact-form/ContactForm';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
     <div className="App">
       <Header />
       <HeroSection />
+      <Processes/>
       <CasesSection />
       <Testimonials />
       <HowItWorks />
